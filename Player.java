@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.Collections;
 //import java.util.Comparator;
 
-/** Minimax algorithm with alpha-beta pruning implemented by Goncalo Figueira.
+/** Minimax algorithm with alpha-beta pruning.
  *	The program implements custom heuristic function based on number of consecutive pieces on the
  *  board (ie. number of sets), the set lengths, number of open-ends per set and the player's turn.
  *  The final evaluation score is obtained by subtracting the evaluation obtained from the prespective
