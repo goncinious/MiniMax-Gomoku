@@ -2,6 +2,7 @@
 - Program developed in Java as part of the AI module at Queen Mary University of London.
 - Solution built reached 4th place in the class competition of 100+ students.
 - GUI for the game was already provided.
+- To play against it run `java GomokuReferee` and select Player.
 
 ### Instructions:
 Two players (white and black) take turns at placing a stone of his/her colour on an unoccupied square on the board (white moves first). The first player to complete a continuous horizontal, vertical or diagonal line of 5 or more stones of his/her colour is the winner (scoring 2 points). The loser scores 0. If all squares are occupied and neither player has won, then each player gets 1 point.
